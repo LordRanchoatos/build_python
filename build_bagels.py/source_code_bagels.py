@@ -5,6 +5,10 @@ A version of this game is featured in the book, "Invent Your Own
 Computer Games with Python" https://nostarch.com/inventwithpython
 Tags: short, game, puzzle"""
 
+print('This is the source code for Bagels.')
+print('It is not meant to be run directly.')
+print('Run the "build_bagels.py" file to build an executable.')
+
 import random
 
 NUM_DIGITS = 3  # (!) Try setting this to 1 or 10.
